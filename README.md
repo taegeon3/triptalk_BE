@@ -34,6 +34,7 @@ TripTalk은 이러한 문제를 해결하기 위해 **관광 정보 조회 + 커
 
 ### AI
 - OpenAI API
+
 ---
 
 # ✨ 주요 기능
@@ -45,7 +46,7 @@ TripTalk은 이러한 문제를 해결하기 위해 **관광 정보 조회 + 커
 
 ### 수행 화면
 
-> ![TripTalk 메인 페이지](./images/triptalk_main.png)
+![TripTalk 메인 페이지](./images/triptalk_main.png)
 
 ---
 
@@ -55,7 +56,7 @@ TripTalk은 이러한 문제를 해결하기 위해 **관광 정보 조회 + 커
 
 Leaflet 지도를 활용하여 전라도 지역의 관광 정보를 제공합니다.
 
-제공정보
+제공 정보
 
 - 이름
 - 주소
@@ -66,7 +67,7 @@ Leaflet 지도를 활용하여 전라도 지역의 관광 정보를 제공합니
 
 ### 수행 화면
 
-> ![TripTalk 지도 화면](./images/triptalk_map.png)
+![TripTalk 지도 화면](./images/triptalk_map.png)
 
 ---
 
@@ -84,13 +85,15 @@ Leaflet 지도를 활용하여 전라도 지역의 관광 정보를 제공합니
 
 ### 수행 화면
 
-> ![TripTalk 커뮤니티 화면](./images/triptalk_community.png)
-> ![TripTalk 커뮤니티 화면](./images/triptalk_community2.png)
-> ![TripTalk 커뮤니티 화면](./images/triptalk_community3.png)
+![TripTalk 커뮤니티 화면](./images/triptalk_community.png)
+
+![TripTalk 커뮤니티 화면](./images/triptalk_community2.png)
+
+![TripTalk 커뮤니티 화면](./images/triptalk_community3.png)
 
 ---
 
-## 6. AI 여행 챗봇
+## 4. AI 여행 챗봇
 
 ### 기능
 
@@ -114,7 +117,7 @@ OpenAI API를 활용한 지역 정보 챗봇입니다.
 
 ### 수행 화면
 
-> ![TripTalk AI 챗봇 화면](./images/triptalk_chatbot.png)
+![TripTalk AI 챗봇 화면](./images/triptalk_chatbot.png)
 
 ---
 
@@ -122,8 +125,8 @@ OpenAI API를 활용한 지역 정보 챗봇입니다.
 
 ### 서비스 URL
 
-> ![프론트 URL](https://triptalkweb.netlify.app/)
-> ![백엔드 URL](https://triptalk-backend.onrender.com)
+- [프론트 URL](https://triptalkweb.netlify.app/)
+- [백엔드 URL](https://triptalk-backend.onrender.com)
 
 ---
 
