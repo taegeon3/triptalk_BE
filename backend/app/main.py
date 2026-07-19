@@ -27,7 +27,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "http://127.0.0.1:5173",
-        "https://triptalk-fe.netlify.app/",
+        "https://triptalk-fe.netlify.app",
         "https://triptalkweb.netlify.app",
     ],
     allow_credentials=True,
